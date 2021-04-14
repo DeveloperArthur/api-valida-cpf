@@ -11,3 +11,5 @@ Envie uma requisição GET para:
 ````
 http://localhost:9000/api/cpf/{CPF}
 ````
+
+A API retornará uma propriedade chamada ````result````, é uma propriedade booleana informando se o CPF é válido ou não.
